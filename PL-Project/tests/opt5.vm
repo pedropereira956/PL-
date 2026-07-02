@@ -1,0 +1,12 @@
+ START
+ PUSHI 0
+ PUSHS "Linha 1: ramo TRUE executa"
+ WRITES
+ WRITELN
+ PUSHS "Linha 2: ramo ELSE executa"
+ WRITES
+ WRITELN
+ PUSHS "Fim do programa"
+ WRITES
+ WRITELN
+ STOP
